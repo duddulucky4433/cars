@@ -2,3 +2,6 @@ benz
 audi
 mini 
 suzuki
+lamborgini
+swift 
+asus
